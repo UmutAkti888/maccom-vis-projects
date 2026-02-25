@@ -1,0 +1,44 @@
+# ── Datasets & large archives ──────────────────────────────────────────────────
+*.tar.gz
+*.zip
+*.gz
+101_ObjectCategories/
+caltech-101/
+__MACOSX/
+cifar-10-*/
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+
+# ── Jupyter ────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── OS & editor junk ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# ── MATLAB compiled ────────────────────────────────────────────────────────────
+*.mex*
+*.asv
+
+# ── PDFs (assignment sheets & reports - not part of the portfolio) ─────────────
+*.pdf
+
+# ── Unrelated root-level files ─────────────────────────────────────────────────
+gigachad.jpeg
+blurredgigachad.jpg
+gray_chad.jpg
+minigigachad.jpg
+posechad.jpeg
+Mirages*.pdf
+conversational_grounding*.pdf
+*.rar
