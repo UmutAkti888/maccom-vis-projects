@@ -1,5 +1,7 @@
 # Machine & Computer Vision Portfolio
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+
 A collection of practical implementations covering the core pipeline of modern computer vision — from classical image processing and geometric reconstruction to deep feature learning. These projects were developed as part of the **B31MV Machine Vision** course at Heriot-Watt University (Spring 2025).
 
 The topics covered align directly with the foundational components of **AI-enhanced Structure from Motion (SfM)** and robotic perception systems.
@@ -46,3 +48,15 @@ This pipeline forms the backbone of **Structure from Motion**, **stereo vision**
 ## Background
 
 These implementations complement prior work in **visual servoing for underwater manipulation** and **LiDAR-based SLAM**, extending classical geometric vision towards learned feature representations for robotic applications.
+
+---
+
+## License & Attribution
+
+The source code in this repository (Python notebooks, MATLAB scripts) is released under the [MIT License](./LICENSE) © 2026 Umut Akti.
+
+**Third-party and course-provided assets** are not covered by this license:
+- `MacVis_HW3/im1.png`, `im2.png`, `intrinsics.mat`, `some_corresp.mat`, `temple_coords.mat` — stereo image pair and calibration data provided as part of the B31MV course at Heriot-Watt University.
+- `MacVis_HW3/matched_pts2.npy` — derived from the above course data.
+
+These files are included solely for reproducibility of the implementations and remain the property of their respective owners.
