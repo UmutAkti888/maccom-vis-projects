@@ -33,12 +33,11 @@ desktop.ini
 # ── PDFs (assignment sheets & reports - not part of the portfolio) ─────────────
 *.pdf
 
+# ── Images (test/personal - not part of the portfolio) ─────────────────────────
+*.jpeg
+*.jpg
+
 # ── Unrelated root-level files ─────────────────────────────────────────────────
-gigachad.jpeg
-blurredgigachad.jpg
-gray_chad.jpg
-minigigachad.jpg
-posechad.jpeg
 Mirages*.pdf
 conversational_grounding*.pdf
 *.rar
