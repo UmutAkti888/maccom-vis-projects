@@ -51,6 +51,15 @@ These implementations complement prior work in **visual servoing for underwater 
 
 ---
 
+## Contributors
+
+| Contributor | Role |
+|-------------|------|
+| **Umut Akti** ([@UmutAkti888](https://github.com/UmutAkti888)) | Primary author — all technical implementations, coursework, theoretical notes, and experimental results |
+| **Claude (Anthropic)** | Repository assistant — folder and file structure management, README documentation, notebook maintenance (Colab → Jupyter porting, broken dependency fixes, visualisation additions), and `.gitignore` / license setup |
+
+---
+
 ## License & Attribution
 
 The source code in this repository (Python notebooks, MATLAB scripts) is released under the [MIT License](./LICENSE) © 2026 Umut Akti.
